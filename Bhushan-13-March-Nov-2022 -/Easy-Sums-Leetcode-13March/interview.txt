@@ -1,0 +1,5 @@
+What is the difference between synchronous and asynchronous requests?
+What are the technologies used by AJAX?
+What is the purpose of XMLHttpRequest?
+What are the properties of XMLHttpRequest?
+What are the important methods of XMLHttpRequest?
